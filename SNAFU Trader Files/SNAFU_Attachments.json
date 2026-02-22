@@ -1,0 +1,33 @@
+{
+    "m_Version": 13,
+    "DisplayName": "SNAFU Attachments",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "UseCategoryOrder": 0,
+    "Categories": [
+        "SNAFU_Magazines",
+        "SNAFU_Muzzles",
+        "SNAFU_Bayonets_Knives",
+        "SNAFU_Optics",
+        "SNAFU_Buttstocks",
+        "SNAFU_Handguards_Grips",
+		"Magazines",
+        "Muzzles",
+        "Bayonets",
+        "Optics",
+        "Buttstocks",
+        "Handguards"
+    ],
+    "Items": {
+        "universallight": 1,
+        "tlrlight": 1
+    }
+}
