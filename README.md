@@ -13,3 +13,11 @@ Or sell the weapon, but not the ammo, so players have to go to risky places to s
 But, if your server economy is fucked & players are minting cash by mining gems or growing weed, feel free to change all the prices to 100,000 per rifle ;)
 
 PS. Don't contact me to debate prices. Just change them if you don't like them, lol...
+
+
+
+
+I have included the types & spawnable types files as well as an example cfgeconomycore.xml file for your missions folder set to use those folder/file names so you can add them to your server.
+Other people have worked on these before me, but I have gone through and corrected type names and other errors that were causing things not to spawn or be unavailable at the Trader. 
+
+All you should need with these is the mod itself correctly installed. https://steamcommunity.com/sharedfiles/filedetails/?id=2443122116&searchtext=snafu
