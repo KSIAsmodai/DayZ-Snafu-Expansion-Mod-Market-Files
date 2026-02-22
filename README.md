@@ -1,6 +1,9 @@
 # Snafu-Expansion-Mod-Market-Files
 Files needed for Trader &amp; Market to sell SNAFU weapons in Expansion Market
 
+The Trader files have SNAFU product as well as Expansion categories available. If you only want them to sell SNAFU just remove any item in the categories that does not have SNAFU_ in front of it. I suggest keeping it as is though.
+If you do edit these - before you upload to your server RUN YOUR FILE THROUGH A JSON CHECKER when you are done editing. https://jsonformatter.org/
+
 These are priced via Grok using real world criteria plus a premium for the Post Apocalyptic scenario DayZ presents. Everything for the most part takes into account what other similar things cost.
 The reasoning behind this is to avoid having a ridiculous server economy where things cost tens of thousands of dollars or hundreds of thousands, lol. I try to avoid the temptation to create "rarity" by pricing.
 Having every SNAFU rifle cost 25,000 is absurd, lol. You can easily go into your types.xml file and change value to Tier 4, so it only spawns in high risk areas. In some instances you may want to
