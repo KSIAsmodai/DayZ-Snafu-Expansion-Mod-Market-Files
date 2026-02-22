@@ -19,5 +19,6 @@ PS. Don't contact me to debate prices. Just change them if you don't like them, 
 
 I have included the types & spawnable types files as well as an example cfgeconomycore.xml file for your missions folder set to use those folder/file names so you can add them to your server.
 Other people have worked on these before me, but I have gone through and corrected type names and other errors that were causing things not to spawn or be unavailable at the Trader. 
+As always, before uploading these to your server, check them with an XML validator first: https://jsonformatter.org/xml-validator
 
 All you should need with these is the mod itself correctly installed. https://steamcommunity.com/sharedfiles/filedetails/?id=2443122116&searchtext=snafu
