@@ -6635,7 +6635,7 @@
 		<value name="Tier4"/>
 		<value name="Tier3"/>
 	</type>
-	<type name="SNAFU_M60_Scope_Mount">
+	<type name="SNAFU_M60_ScopeMount">
 		<nominal>1</nominal>
 		<restock>0</restock>
 		<lifetime>7200</lifetime>
@@ -6804,7 +6804,7 @@
 		<value name="Tier4"/>
 		<value name="Tier3"/>
 	</type>
-	<type name="SNAFU_Kabar_BK">
+	<type name="SNAFU_Kabar">
 		<nominal>1</nominal>
 		<restock>0</restock>
 		<lifetime>7200</lifetime>
