@@ -5823,20 +5823,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFU_M60_Scope_Mount">
-        <nominal>1</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>25</cost>
-        <flags count_in_hoarder="1" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-	 <type name="SNAFU_M60">
+    <type name="SNAFU_M60">
         <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
@@ -5887,7 +5874,20 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-    </type>	
+    </type>
+	<type name="SNAFU_M60_Scope_Mount">
+        <nominal>1</nominal>
+        <restock>0</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>25</cost>
+        <flags count_in_hoarder="1" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
     <type name="SNAFU_50bmg_Suppressor_B">
         <nominal>1</nominal>
         <restock>0</restock>
@@ -5953,19 +5953,6 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFU_AKEOTech_EXPS3">
-        <nominal>1</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>25</cost>
-        <flags count_in_hoarder="1" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
     <type name="SNAFU_AWM_GUN">
         <nominal>1</nominal>
         <restock>0</restock>
@@ -5979,23 +5966,7 @@
         <usage name="Military"/>
         <value name="Tier4"/>
     </type>
-    <type name="SNAFU_EOTech_EXPS">
-        <nominal>1</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>25</cost>
-        <flags count_in_hoarder="1" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="SNAFU_Kabar">
-        <flags count_in_hoarder="1" count_in_player="1" count_in_map="1" count_in_cargo="1" crafted="0" deloot="0"/>
-    </type>
-    <type name="SNAFU_Kabar_BK">
+     <type name="SNAFU_Kabar">
         <nominal>1</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
